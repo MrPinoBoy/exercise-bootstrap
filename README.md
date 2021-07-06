@@ -1,1 +1,1 @@
-# exercise-bootstrap
+# exercises-bootstrap
